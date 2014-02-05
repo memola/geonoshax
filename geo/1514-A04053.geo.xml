@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<elements>
+  <placenames><placename name="Howe" id="rb6">
+  <place rank="1" score="0" name="Howe Mountain" gazref="unlock:7577364" source-gazref="unlock:4836396" type="other" gazetteer="GeoNames" lat="41.9073165" long="-73.2990058" locality="0" distance-to-known="99999"/>
+  <place rank="2" score="0" name="Howe Hill" gazref="unlock:7828106" source-gazref="unlock:5087703" type="other" gazetteer="GeoNames" lat="42.8839763" long="-71.2156165" locality="0" distance-to-known="99999"/>
+  <place rank="3" score="0" name="Howe Peak" gazref="unlock:7708594" source-gazref="unlock:4967648" type="other" gazetteer="GeoNames" lat="46.0708776" long="-68.9994919" locality="0" distance-to-known="99999"/>
+  <place rank="4" score="0" name="Howe Airport" gazref="unlock:7737583" source-gazref="unlock:4996641" type="other" gazetteer="GeoNames" lat="43.4958581" long="-85.5736557" locality="0" distance-to-known="99999"/>
+  <place rank="5" score="0" name="Howe Point" gazref="unlock:8305548" source-gazref="unlock:5565466" type="other" gazetteer="GeoNames" lat="41.7671017" long="-121.5369381" locality="0" distance-to-known="99999"/>
+  <place rank="6" score="0" name="Howe Hill" gazref="unlock:7828117" source-gazref="unlock:5087714" type="other" gazetteer="GeoNames" lat="44.0775653" long="-71.9103645" locality="0" distance-to-known="99999"/>
+  <place rank="7" score="0" name="Howe Hill" gazref="unlock:7680987" source-gazref="unlock:4940034" type="other" gazetteer="GeoNames" lat="42.2875922" long="-71.90507340000001" locality="0" distance-to-known="99999"/>
+  <place rank="8" score="0" name="Howe Hill" gazref="unlock:7708608" source-gazref="unlock:4967662" type="other" gazetteer="GeoNames" lat="44.3889553" long="-70.7159005" locality="0" distance-to-known="99999"/>
+  <place rank="9" score="0" name="Howe Hill" gazref="unlock:7977456" source-gazref="unlock:5237200" type="other" gazetteer="GeoNames" lat="43.7447909" long="-72.4778728" locality="0" distance-to-known="99999"/>
+  <place rank="10" score="0" name="Howe Mountain" gazref="unlock:8336330" source-gazref="unlock:5596250" type="other" gazetteer="GeoNames" lat="48.1902063" long="-116.2196202" locality="0" distance-to-known="99999"/>
+  <place rank="11" score="0" name="Howe Hill" gazref="unlock:7573970" source-gazref="unlock:4833002" type="other" gazetteer="GeoNames" lat="43.5306269" long="-72.34092440000001" locality="0" distance-to-known="99999"/>
+  <place rank="12" score="0" name="Howe Peak" gazref="unlock:7828110" source-gazref="unlock:5087707" type="other" gazetteer="GeoNames" lat="44.3517294" long="-71.0703522" locality="0" distance-to-known="99999"/>
+  <place rank="13" score="0" name="Howe Hill" gazref="unlock:7828107" source-gazref="unlock:5087704" type="other" gazetteer="GeoNames" lat="43.4953507" long="-72.12286520000001" locality="0" distance-to-known="99999"/>
+  <place rank="14" score="0" name="Howe Mountain" gazref="unlock:7861813" source-gazref="unlock:5121430" type="other" gazetteer="GeoNames" lat="43.39007" long="-73.79956559999999" locality="0" distance-to-known="99999"/>
+  <place rank="15" score="0" name="Howe Hill" gazref="unlock:7680986" source-gazref="unlock:4940033" type="other" gazetteer="GeoNames" lat="42.6014769" long="-71.9786885" locality="0" distance-to-known="99999"/>
+  <place rank="16" score="0" name="Howe Hill" gazref="unlock:4145405" source-gazref="unlock:2163005" type="other" gazetteer="GeoNames" lat="-37.51667" long="149.88333" locality="0" distance-to-known="99999"/>
+  <place rank="17" score="0" name="Howe Brook Mountain" gazref="unlock:7708592" source-gazref="unlock:4967646" type="other" gazetteer="GeoNames" lat="46.2964369" long="-68.1628063" locality="0" distance-to-known="99999"/>
+  <place rank="18" score="0" name="Howe Peak" gazref="unlock:8336331" source-gazref="unlock:5596251" type="other" gazetteer="GeoNames" lat="43.7132371" long="-113.1002801" locality="0" distance-to-known="99999"/>
+  <place rank="19" score="0" name="Howe Peaks" gazref="unlock:7708595" source-gazref="unlock:4967649" type="other" gazetteer="GeoNames" lat="45.9331016" long="-68.92504510000001" locality="0" distance-to-known="99999"/>
+  <place rank="20" score="0" name="Howe Airport" gazref="unlock:8336328" source-gazref="unlock:5596248" type="other" gazetteer="GeoNames" lat="43.8390702" long="-113.0466698" locality="0" distance-to-known="99999"/>
+ </placename>
+ <placename name="Hye" id="rb15">
+  <place rank="1" score="0" name="Hye" gazref="unlock:7442484" source-gazref="unlock:4699648" type="other" gazetteer="GeoNames" lat="30.2424244" long="-98.57002900000001" locality="0" distance-to-known="99999"/>
+  <place rank="2" score="0" name="Hye Park Cemetery" gazref="unlock:7662718" source-gazref="unlock:4921757" type="other" gazetteer="GeoNames" lat="40.4314251" long="-86.4680536" locality="0" distance-to-known="99999"/>
+  <place rank="3" score="0" name="Bukit Lin Hye" gazref="unlock:3571026" source-gazref="unlock:1757302" type="other" gazetteer="GeoNames" lat="2.2166667" long="103.7666667" locality="0" distance-to-known="99999"/>
+ </placename>
+ <placename name="Aboue" id="rb17"/>
+ <placename name="Lady I" id="rb28">
+  <place rank="1" score="0" name="Lady I" gazref="unlock:11189909" source-gazref="unlock:133280" type="other" gazetteer="OS 1:50 000 Scale Gazetteer, Open" lat="53.90089934581125" long="-0.1962224894111848" locality="0" distance-to-known="99999"/>
+ </placename>
+ <placename name="Pepo" id="rb31">
+  <place rank="1" score="0" name="El Pepo" gazref="unlock:5527481" source-gazref="unlock:3683488" type="other" gazetteer="GeoNames" lat="9.65" long="-75.4666667" locality="0" distance-to-known="99999"/>
+ </placename>
+ <placename name="England" id="rb37">
+  <place rank="1" score="1.939794001" long="-0.7031250" lat="52.1604546" in-cc="GB" gazref="geonames:6269131" name="England" type="civila" pop="50000000" locality="0" distance-to-known="99999"/>
+  <place rank="2" score="0" name="New England Memorial Hospital Heliport" gazref="unlock:7686236" source-gazref="unlock:4945285" type="other" gazetteer="GeoNames" lat="42.4514848" long="-71.0864414" locality="0" distance-to-known="99999"/>
+  <place rank="3" score="0" name="England" gazref="unlock:4399540" source-gazref="unlock:2930139" type="other" gazetteer="GeoNames" lat="52.2166667" long="7.0333333" locality="0" distance-to-known="99999"/>
+  <place rank="4" score="0" name="England" gazref="unlock:5823630" source-gazref="unlock:6269131" type="other" gazetteer="GeoNames" lat="52.16045" long="-0.70312" locality="0" distance-to-known="99999"/>
+  <place rank="5" score="0" name="Northern Tablelands" gazref="unlock:13894995" source-gazref="unlock:7289171" type="other" gazetteer="GeoNames" lat="-30.59537" long="151.50009" locality="0" distance-to-known="99999"/>
+  <place rank="6" score="0" name="City of England" gazref="unlock:10769515" source-gazref="unlock:7169416" type="other" gazetteer="GeoNames" lat="34.54541" long="-91.96768" locality="0" distance-to-known="99999"/>
+  <place rank="7" score="0" name="England Flying Service Airport" gazref="unlock:6859676" source-gazref="unlock:4110006" type="other" gazetteer="GeoNames" lat="34.54176" long="-91.98347" locality="0" distance-to-known="99999"/>
+  <place rank="8" score="0" name="New England District" gazref="unlock:4137859" source-gazref="unlock:2155456" type="other" gazetteer="GeoNames" lat="-30.5166667" long="151.65" locality="0" distance-to-known="99999"/>
+  <place rank="9" score="0" name="England Knob" gazref="unlock:7214905" source-gazref="unlock:4465373" type="other" gazetteer="GeoNames" lat="35.632905" long="-81.76926520000001" locality="0" distance-to-known="99999"/>
+  <place rank="10" score="0" name="New England Gliderport" gazref="unlock:7830522" source-gazref="unlock:5090124" type="other" gazetteer="GeoNames" lat="42.7578673" long="-71.2422828" locality="0" distance-to-known="99999"/>
+  <place rank="11" score="0" name="Mount England" gazref="unlock:4149706" source-gazref="unlock:2167308" type="other" gazetteer="GeoNames" lat="-27.4" long="152.6666667" locality="0" distance-to-known="99999"/>
+  <place rank="12" score="0" name="City of New England" gazref="unlock:8430738" source-gazref="unlock:5690695" type="other" gazetteer="GeoNames" lat="46.5408417" long="-102.867112" locality="0" distance-to-known="99999"/>
+  <place rank="13" score="0" name="England" gazref="unlock:14121740" source-gazref="unlock:2228" type="other" gazetteer="Natural Earth" lat="52.66970634460449" long="-1.117071032524109" locality="0" distance-to-known="99999"/>
+  <place rank="14" score="0" name="England Mountain" gazref="unlock:5186515" source-gazref="unlock:5948833" type="other" gazetteer="GeoNames" lat="56.988531203" long="-125.378417429" locality="0" distance-to-known="99999"/>
+  <place rank="15" score="0" name="New England" gazref="unlock:2785851" source-gazref="unlock:971406" type="other" gazetteer="GeoNames" lat="-30.8166667" long="27.5" locality="0" distance-to-known="99999"/>
+  <place rank="16" score="0" name="England" gazref="unlock:4399539" source-gazref="unlock:2930138" type="other" gazetteer="GeoNames" lat="54.4833333" long="8.8833333" locality="0" distance-to-known="99999"/>
+  <place rank="17" score="0" name="England Mountain" gazref="unlock:7500500" source-gazref="unlock:4757704" type="other" gazetteer="GeoNames" lat="38.7937266" long="-77.8577722" locality="0" distance-to-known="99999"/>
+  <place rank="18" score="0" name="England Pk." gazref="unlock:14134637" source-gazref="unlock:177" type="other" gazetteer="Natural Earth" lat="-82.61809661250592" long="-52.80949866444752" locality="0" distance-to-known="99999"/>
+  <place rank="19" score="0" name="England" gazref="unlock:6468123" source-gazref="unlock:3158182" type="other" gazetteer="GeoNames" lat="61.3333333" long="5.0166667" locality="0" distance-to-known="99999"/>
+  <place rank="20" score="0" name="England Mountain" gazref="unlock:7363923" source-gazref="unlock:4620999" type="other" gazetteer="GeoNames" lat="36.148411" long="-84.5052153" locality="0" distance-to-known="99999"/>
+ <place rank="21" score="0" name="United Kingdom of Great Britain and Northern Ireland" gazref="unlock:4559576" source-gazref="unlock:2635167" type="other" gazetteer="GeoNames" lat="54" long="-4" locality="0" distance-to-known="99999"/></placename>
+</placenames>
+  <events/>
+</elements>
