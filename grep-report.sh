@@ -1,20 +1,20 @@
 #!/bin/bash
 # Lines that start with a pound-sign are comments. They are ignored when you run the script!
-# $1 refers to the first command line argument.
+# $1 refers to the search term (that is, the first command line argument).
 # the -z is a condition that is true if the length in characters
-# of that argument is zero, that is if there was no argument
+# of the search term is zero, that is if there was no search term
 if [ -z $1 ]; then
   # set the list of places equal to the lines of content in the file 'countries.txt' 
   places=`cat countries.txt`;
 else
-  # set the list of places equal to the first argument
+  # set the list of places equal to the search term
   places=( "$1" )
 fi
 # make a list of all the file paths under the data directory whose name ends with '.txt'
 allfiles=`find data -type f -name "*.txt"`
 # for each value in the list of places, do the following
 # with a variable called 'place' set equal to the value from the list
-# this will only one value if there was a command line argument
+# this will only one value if there was a search term
 for place in $places; do
   # print a header line for the place we're searching for
   echo "$place Matches:"
